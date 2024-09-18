@@ -11,8 +11,8 @@ This repository contains the frontend code for the Health Tracking App. It is bu
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/Madhur0710/health-track-frontend.git
-   cd health-track-frontend
+   git clone https://github.com/Madhur0710/health-track-app-frontend.git
+   cd health-track-app-frontend
 
 **Install Dependencies**
 
